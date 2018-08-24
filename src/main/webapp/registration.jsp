@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Login app!</h2>
+<h2>Registartion page	!</h2>
 </body>
 </html>
